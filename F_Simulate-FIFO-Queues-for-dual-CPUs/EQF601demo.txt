@@ -1,0 +1,18 @@
+	[Abort Jobs]
+	JobID	CPU	Abort	Delay
+[1]	105	2	10	0
+[2]	103	2	11	5
+[3]	106	2	11	5
+[4]	108	2	11	5
+
+	[Jobs Done]
+	JobID	CPU	Departure	Delay
+[1]	101	1	12	0
+[2]	112	2	11	0
+[3]	104	2	20	0
+
+[Average Delay]
+2.14 ms
+
+[Success Rate]
+42.86%
